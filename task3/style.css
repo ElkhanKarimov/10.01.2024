@@ -1,0 +1,14 @@
+.table{
+    width: 250px;
+    height: 250px;
+    border-style: hidden;
+}
+.thead{
+    background-color: rgb(66,127,239);
+    color: white;
+    height: 40px;
+}
+.tbody1{
+    background-color: rgb(238,247,255);
+    border-style: none;
+}

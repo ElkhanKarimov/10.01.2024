@@ -1,0 +1,19 @@
+
+   
+.info{
+    background-image: url( "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/06/mordecai-and-rigby-regular.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 1000px;
+    background-size: cover;
+    
+}
+.info2{
+    background-image: url("https://ew.com/thmb/U-vqBtwXPnNcqopoxNNtIwI1qkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/regular-show-d24b56f07cfd4fe5ac21ab3c8d7eea9f.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 1000px;
+    background-size: cover;
+}
